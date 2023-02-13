@@ -4,7 +4,7 @@ BTS es un grupo surcoreano de música pop y hip hop formado en Seoul en 2013. So
 
 ## Imágenes del grupo.
 ### Fandon del grupo "ARMY"
-![Fandon ARMY ]( )
+![Fandon ARMY ](https://github.com/BarcoIrina99/Irina-barco-ejp1/blob/main/army.jpeg )
 
 ### Imagenes de sus logros
 *![Logros]( )
